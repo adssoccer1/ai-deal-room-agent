@@ -1,0 +1,25 @@
+# Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# Local data
+deal_room.db
+deal_room.db-journal
+*.sqlite
+*.sqlite3
+
+# Run outputs (each run is reproducible from inputs)
+outputs/run_*/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

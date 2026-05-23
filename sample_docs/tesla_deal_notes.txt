@@ -1,0 +1,22 @@
+Tesla — Deal Notes (Internal)
+
+Context
+Tesla is being reviewed as a public market comparable for EV manufacturing,
+autonomy, batteries, and robotics exposure. Use these notes as the starting
+brief; the agent should rely on external research for current financials.
+
+Internal notes:
+- Review latest annual revenue from public filings or reliable web sources.
+- Compare current market capitalization against revenue.
+- Identify recent product/business developments relevant to the investment
+  thesis: FSD/Autopilot progress, Optimus humanoid program, energy storage,
+  and any material guidance changes.
+
+Open questions for the team
+- Is Tesla's current market cap implying continued auto-margin expansion, or
+  is it already pricing in AI/robotics optionality?
+- How should we treat the energy storage business in the comp set?
+- What's the right multiple framework: auto OEM, AI hardware, or hybrid?
+
+The agent should treat market cap and latest revenue as time-sensitive and
+flag them for human review even if Parallel returns confident-looking values.

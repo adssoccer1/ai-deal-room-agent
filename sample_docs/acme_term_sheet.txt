@@ -1,0 +1,25 @@
+Acme Robotics — Series C Term Sheet (Draft, Confidential)
+
+Issuer: Acme Robotics, Inc.
+Financing: Proposed Series C financing.
+Pre-money valuation: $180M
+Investment amount: $30M
+Post-money valuation: $210M
+Security: Series C Preferred Stock
+Liquidation preference: 1x non-participating
+Anti-dilution: Broad-based weighted average
+Option pool: Top-up to 12% post-financing, on a fully-diluted basis
+Target close date: Q3 2025.
+
+Conditions Precedent
+- Completion of customary financial and legal diligence.
+- Confirmation of 2024 audited financial statements.
+- Reference calls with two of the company's top three customers.
+
+Board Composition
+Lead investor will receive one board seat. Existing investor maintains its
+seat. Two founder seats. One independent.
+
+Use of Proceeds
+Hiring across engineering and field deployment, expansion into the EU 3PL
+market, and acceleration of the next-generation manipulation platform.

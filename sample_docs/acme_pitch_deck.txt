@@ -1,0 +1,39 @@
+Acme Robotics — Series C Pitch Deck (Confidential)
+
+The Problem
+Third-party logistics providers are struggling with rising labor costs and
+fulfillment SLAs. Existing warehouse automation is rigid, expensive to
+install, and slow to redeploy.
+
+Our Solution
+Acme Robotics builds autonomous warehouse robotics systems for third-party
+logistics providers. Our fleet of mobile manipulation robots can be deployed
+in under 30 days and reconfigured across SKUs without a re-integration project.
+
+Company
+Founded in 2020 and headquartered in Boston, MA.
+
+Traction
+2023 Revenue: $10M
+2024 ARR: $22M
+Gross Margin: 64%
+Current Customers: DHL, Walmart, Maersk
+
+The Team
+Team Size: 140 employees
+Led by a founding team from MIT CSAIL and Amazon Robotics, with senior hires
+from Boston Dynamics, Symbotic, and Locus Robotics.
+
+Market Opportunity
+The third-party logistics automation TAM is estimated at $48B by 2028,
+growing at roughly 22% CAGR. Acme is positioned to capture the mid-market
+3PL segment, which is currently underserved by enterprise-scale incumbents.
+
+Go-to-market
+Land-and-expand starting with single-warehouse pilots, expanding to fleet
+contracts within 9 months. Pipeline coverage of 4.1x for the next 12 months.
+
+Why Now
+Labor scarcity, e-commerce fulfillment pressure, and rapid progress in
+robotic foundation models are converging to make general-purpose warehouse
+automation viable for the first time.

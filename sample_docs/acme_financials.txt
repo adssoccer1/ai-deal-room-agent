@@ -1,0 +1,23 @@
+Acme Robotics — Financial Summary (Management-Prepared, Unaudited)
+
+Income statement highlights, USD millions, unless otherwise noted.
+
+2023 GAAP Revenue: $9M
+2024 GAAP Revenue: $18M
+Gross Margin: 61%
+Operating Expenses (2024): $24M
+EBITDA (2024): -$8M
+
+Notes
+- 2024 revenue figures are management-prepared and unaudited.
+- Audit by a Big Four firm is in progress and expected to close before
+  the Series C financing.
+- Gross margin reflects fully-loaded cost of revenue, including field
+  deployment labor and depreciation of robot fleet at customer sites.
+- Revenue recognition follows ASC 606 with performance obligations
+  satisfied over time for managed-fleet contracts.
+
+Cash position
+- Cash on hand as of period end: $42M
+- Monthly net burn: approximately $1.8M
+- Runway: ~22 months at current burn (pre-financing)
